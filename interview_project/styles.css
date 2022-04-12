@@ -1,0 +1,90 @@
+body {
+  background: url(./img/background\ image.jpg) no-repeat center center;
+  width: 1920px;
+  height: 1080px;
+  padding: 67.9px 247.4px 44.6px 244.6px;
+  object-fit: contain;
+}
+
+main {
+  background: url(./img//Stall\ image\ green.png) no-repeat;
+  width: 1428px;
+  height: 966.2px;
+  margin: 40px 200px;
+  padding: 57.6px 48.2px 39.8px 51.3px;
+  object-fit: contain;
+}
+
+.logo {
+  background: url(./img/logo.png);
+  width: 124.9px;
+  height: 81.9px;
+  margin: 0 13.2px 253.3px 348.3px;
+  object-fit: contain;
+}
+
+.Chi {
+  display:block;
+  margin-left: 147px;
+  width: 561.3px;
+  height: 51px;
+  font-family: MicrosoftYaHeiBold-GBpc-EUC-H;
+  font-size: 41.7px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 8.35px;
+  text-align: center;
+  color: #333;
+}
+
+.Eng {
+  display: block;
+  width: 563.3px;
+  height: 34px;
+  margin: 10px 0 0 145px;
+  font-family: MicrosoftYaHeiGBpc-EUC-H;
+  font-size: 30.1px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.81;
+  letter-spacing: normal;
+  text-align: center;
+  color: #333;
+}
+
+.leftImg {
+  background: url(./img/leftImg.jpg);
+  width: 170.2px;
+  height: 170.2px;
+  margin: 270px 103.5px 249.7px 0;
+  object-fit: contain;
+}
+ 
+.centerScreen {
+  background: url(./img/centerScreen.jpg);
+  width: 713.7px;
+  height: 399.6px;
+  margin: -436px 272px;;
+  object-fit: contain;
+}
+
+.productsList {
+  background: url(./img/products\ list\ green.png);
+  width: 357.1px;
+  height: 87.6px;
+  margin-left: 438px;
+  margin-top: 482px;
+  object-fit: contain;
+}
+
+.arc {
+  background: url(./img/Acr\ image.jpg) no-repeat;
+  width: 273.1px;
+  height: 353.8px;
+  margin-top: -530px;
+  margin-left: 1056px;
+  object-fit: contain;
+}
